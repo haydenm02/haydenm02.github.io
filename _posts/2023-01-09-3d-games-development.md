@@ -51,7 +51,6 @@ public class Weapon : UsableItem
 	// Sound and visual effects
     ParticleSystem gunParticles;
     public AudioClip sound;
-	
 	// Which objects we should be able to hit
 	public LayerMask layerMask;
 	
@@ -118,4 +117,4 @@ GameManager.instance.BottleShot();
 ```
 {: file="BottleShootable.cs"}
 
-From this, the game plays smoothly without issues moving from one objective to the next.
+The game plays smoothly without issues, freely moving from one objective to the next. From this project, I have demonstrated and further developed my understanding of C#, Unity and game development.
