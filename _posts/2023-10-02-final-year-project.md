@@ -5,18 +5,24 @@ categories: [Education, University]
 tags: [graphics, linux, windows, c++]
 ---
 
+The aim of this project was to investigate cross-platform support in software development.
+
 # Overview
 
-The aim of this project was to investigate cross-platform support in software development.
 One of my passions in this industry is the development of games. An issue I've noticed is prevelant especially in this sector is compatibility across systems. Most software is built for one operating system- Windows. Specifically, the latest build of Windows.
 This raises a problem when your system is not on this version, or even Windows at all. The options are either switch operating systems, or don't use the software.
-Tools such as Wine (and Proton on top of this) partially solve this problem. They allow most software and games to run on Unix-based operating systems. The compatibility is pretty good and it's getting better every day, however it is not perfect and it is still another layer on top of running natively. If games coupld be developed with cross-platform support in mind, it would allow for (mostly) quick and easy builds for any required system.
+
+
+Tools such as Wine (and Proton on top of this) partially solve this problem. They allow most software and games to run on Unix-based operating systems. The compatibility is pretty good and it's getting better every day, however it is not perfect and it is still another layer on top of running natively. 
+If games coupld be developed with cross-platform support in mind, it would allow for (mostly) quick and easy builds for any required system.
 
 This is where my project comes in. If I could develop a simple game and compile it for both Windows and Linux, I could show the potential for software development with a focus on cross-platform support from the ground up.
 
 # Development
 
-The first goal was creating an OpenGL scene. In order to create this, I utilised GLFW and Glad (https://glad.dav1d.de/) to set up an environment which would compile seamlessly to other platforms.
+The first goal was creating an OpenGL scene. 
+
+In order to create this, I utilised GLFW and Glad (https://glad.dav1d.de/) to set up an environment which would compile seamlessly to other platforms.
 From this, I had a simple scene with a basic shape:
 
 ![Triangle](images/2023-10-02-final-year-project/triangle.png)
