@@ -7,6 +7,7 @@ tags: [graphics, linux, windows, c++]
 
 The aim of this project was to investigate cross-platform support in software development.
 
+
 # Overview
 
 One of my passions in this industry is the development of games. An issue I've noticed is prevelant especially in this sector is compatibility across systems. Most software is built for one operating system- Windows. Specifically, the latest build of Windows.
