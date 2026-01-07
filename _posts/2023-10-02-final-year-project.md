@@ -2,7 +2,7 @@
 title: Final Year Project
 date: 2023-10-02 16:00:00
 categories: [Education, University]
-tags: [graphics, linux, windows, c++]
+tags: [graphics, linux, windows, c++, opengl]
 ---
 
 This is an OpenGL project compiled to both Windows and Linux. The aim of this project was to investigate cross-platform support in software development.
