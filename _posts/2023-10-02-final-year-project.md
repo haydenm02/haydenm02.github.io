@@ -5,7 +5,7 @@ categories: [Education, University]
 tags: [graphics, linux, windows, c++]
 ---
 
-The aim of this project was to investigate cross-platform support in software development.
+This is an OpenGL project compiled to both Windows and Linux. The aim of this project was to investigate cross-platform support in software development.
 
 
 # Overview
